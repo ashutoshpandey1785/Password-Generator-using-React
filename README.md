@@ -1,5 +1,5 @@
 # React + Vite
-Live Demo: [Password Generator](https://password-generator-using-react-liard.vercel.app/)
+Live Demo: [Password Generator](https://password-generator-using-react-liard.vercel.app/)<br/>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
